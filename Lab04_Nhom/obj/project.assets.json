@@ -470,24 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\trant\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DEEL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BMCSDL_App\\Lab04_Nhom\\Lab04_Nhom\\Lab04_Nhom.csproj",
+      "projectUniqueName": "C:\\Users\\DEEL\\OneDrive\\Documents\\HK2_Nam3\\Bảo mật CSDL\\Lab3\\Nhóm\\Lab4\\BMCSDL_Lab04\\Lab04_Nhom\\Lab04_Nhom.csproj",
       "projectName": "Lab04_Nhom",
-      "projectPath": "C:\\BMCSDL_App\\Lab04_Nhom\\Lab04_Nhom\\Lab04_Nhom.csproj",
-      "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
-      "outputPath": "C:\\BMCSDL_App\\Lab04_Nhom\\Lab04_Nhom\\obj\\",
+      "projectPath": "C:\\Users\\DEEL\\OneDrive\\Documents\\HK2_Nam3\\Bảo mật CSDL\\Lab3\\Nhóm\\Lab4\\BMCSDL_Lab04\\Lab04_Nhom\\Lab04_Nhom.csproj",
+      "packagesPath": "C:\\Users\\DEEL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DEEL\\OneDrive\\Documents\\HK2_Nam3\\Bảo mật CSDL\\Lab3\\Nhóm\\Lab4\\BMCSDL_Lab04\\Lab04_Nhom\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\DEEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -542,7 +537,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

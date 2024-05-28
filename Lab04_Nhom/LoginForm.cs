@@ -10,7 +10,7 @@ namespace Lab04_Nhom
 {
     public partial class LoginForm : Form
     {
-        private SqlConnection conn = new SqlConnection(@"Data Source=KIMHUYNH;Initial Catalog=QLSVNhom;Integrated Security=True;");
+        private SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-EO2BETF\YENVY;Initial Catalog=QLSVNhom;Integrated Security=True;");
         public LoginForm()
         {
             InitializeComponent();

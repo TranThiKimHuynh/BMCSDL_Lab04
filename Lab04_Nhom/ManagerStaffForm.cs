@@ -83,7 +83,7 @@ namespace Lab04_Nhom
     }
     public partial class ManagerStaffForm : Form
     {
-        SqlConnection conn = new SqlConnection(@"Data Source=KIMHUYNH;Initial Catalog=QLSVNhom;Integrated Security=True;");
+        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-EO2BETF\YENVY;Initial Catalog=QLSVNhom;Integrated Security=True;");
         SqlCommand cmd;
         SqlDataAdapter adt;
         DataTable dt = new DataTable();
