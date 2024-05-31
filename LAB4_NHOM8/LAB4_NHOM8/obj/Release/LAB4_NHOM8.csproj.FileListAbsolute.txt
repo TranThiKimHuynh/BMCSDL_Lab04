@@ -1,0 +1,10 @@
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\bin\Release\LAB4_NHOM8.exe.config
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\bin\Release\LAB4_NHOM8.exe
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\bin\Release\LAB4_NHOM8.pdb
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.csproj.AssemblyReference.cache
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.InsertMark.resources
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.Properties.Resources.resources
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.csproj.GenerateResource.cache
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.csproj.CoreCompileInputs.cache
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.exe
+C:\Users\Atom\Desktop\HC\BMCSDL\Nhom\Nhom8_BMCSDL_Lab4_Source\LAB4_NHOM8\LAB4_NHOM8\obj\Release\LAB4_NHOM8.pdb
